@@ -1,5 +1,5 @@
 {
-    "name": "steadfast-courier/steadfast-courier-laravel-package",
+    "name": "rajibul110290/steadfast-courier-laravel-package",
     "description": "A complate Laravel package for SteadFast Courier Limited",
     "keywords": [
         "SteadFast",
@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": ">=7.3",
         "spatie/laravel-package-tools": "^1.16",
-        "illuminate/contracts": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+        "illuminate/contracts": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
         "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
